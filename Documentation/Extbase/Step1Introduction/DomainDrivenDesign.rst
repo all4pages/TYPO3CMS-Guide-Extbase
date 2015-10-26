@@ -19,7 +19,7 @@ die beiden anderen PDF-Generatoren entfernen?
 Viele Programmierer haben schon sehr früh erkannt, dass es zwingend nötig ist
 Quellcode zu strukturieren bzw. die Teilbereiche einer Software wie z.B. die
 PDF-Generierung, die Anbindung an eine Datenbanktabelle, das Schreiben von
-Logdateien oder dem Versand einer E-Mail in eigene Objekt den sogenannten
+Logdateien oder dem Versand einer E-Mail in eigene Objekte den sogenannten
 Domainmodellen zu kapseln.
 
 Dieses Prinzip der Planung und Programmierung nennt man Domain Driven Design. Dies
